@@ -2,10 +2,10 @@
 
 This application has the function of using Ruby to encode or decode morse code
 
-# 📍 Technologies
+## 📍 Technologies
 - [Ruby](https://www.ruby-lang.org/pt/)
 
-# 🚀 Running
+## 🚀 Running
 
 To use this application you need ruby installed in your device, if you have, do this:
 
@@ -21,6 +21,6 @@ $ cd RbMorse
 ```bash
 $ ruby RbMorse.rb
 ```
-# 💻 Demo
+## 💻 Demo
 
 ![](https://github.com/dev-Gois/RbMorse/blob/main/RbMorse.gif)
